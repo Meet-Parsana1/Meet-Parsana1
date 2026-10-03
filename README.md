@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/github/followers/Meet-Parsana1?label=FOLLOWERS&style=for-the-badge&color=00A0B6&logo=github" alt="GitHub followers" />
 </a>
 <a href="https://github.com/Meet-Parsana1?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMeet-Parsana1&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github&color=5965F2" alt="Public repository count" />
+</a>
+<a href="https://github.com/Meet-Parsana1?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-5965F2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
 </a>
 
@@ -58,8 +61,9 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
       <h3 align="center">💰 Finance Intelligence</h3>
       <p align="center">
         <a href="https://github.com/Meet-Parsana1?tab=repositories">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECTS-0B66D2?style=for-the-badge&logo=github&logoColor=white" alt="Find Finance Intelligence repository" />
+          <img src="https://img.shields.io/badge/SOURCE%20CODE-0B66D2?style=for-the-badge&logo=github&logoColor=white" alt="Browse source repositories" />
         </a>
+        <a href="https://finance-intelligence-xi.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20App-00A0B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Finance Intelligence live demo" /></a>
       </p>
       <p>A personal finance app focused on making everyday money tracking easier. It brings income, expenses and financial insights together, with AI-assisted expense categorization.</p>
       <p><strong>Highlights</strong></p>
@@ -81,8 +85,9 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
       <h3 align="center">🍽️ Canteen Feedback Management</h3>
       <p align="center">
         <a href="https://github.com/Meet-Parsana1?tab=repositories">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECTS-00A0B6?style=for-the-badge&logo=github&logoColor=white" alt="Find Canteen Feedback repository" />
+          <img src="https://img.shields.io/badge/SOURCE%20CODE-00A0B6?style=for-the-badge&logo=github&logoColor=white" alt="Browse source repositories" />
         </a>
+        <a href="https://canteen-feedback-management-system.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20App-00A0B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Canteen Feedback live demo" /></a>
       </p>
       <p>A feedback platform that helps students share their canteen experience and gives administrators a clearer view of the responses.</p>
       <p><strong>Highlights</strong></p>
@@ -130,10 +135,22 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
 ## 🐍 My contribution calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Meet-Parsana1/Meet-Parsana1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution calendar snake" />
+  <strong>A visual record of the work I put in, one day at a time.</strong><br/>
+  <sub>The snake follows my GitHub contribution grid. Each square represents a day; brighter squares indicate days with more activity.</sub>
 </p>
 
-<p align="center"><sub>A little progress, repeated consistently, adds up. 💙</sub></p>
+<p align="center">
+  <a href="https://github.com/Meet-Parsana1?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://raw.githubusercontent.com/Meet-Parsana1/Meet-Parsana/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving across the GitHub contribution calendar" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Contribution key: ⬛ No recorded activity &nbsp; 🟩 Contributions &nbsp; 🟦 More activity</sub><br/>
+  <sub><a href="https://github.com/Meet-Parsana1">View my GitHub profile and full contribution history →</a></sub>
+</p>
+
+<p align="center"><i>Every commit is a small step forward. 💙</i></p>
 
 ---
 
