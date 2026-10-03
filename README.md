@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/followers/Meet-Parsana1?label=FOLLOWERS&style=for-the-badge&color=00A0B6&logo=github" alt="GitHub followers" />
 </a>
 <a href="https://github.com/Meet-Parsana1?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMeet-Parsana1&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github&color=5965F2" alt="Public repository count" />
+  <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-10-5965F2?style=for-the-badge&logo=github&logoColor=white" alt="Public repository count" />
 </a>
 <a href="https://github.com/Meet-Parsana1?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-5965F2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
