@@ -132,25 +132,33 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
 
 ---
 
-## 🐍 My contribution calendar
+## 📅 My Contri Calendar
 
 <p align="center">
-  <strong>A visual record of the work I put in, one day at a time.</strong><br/>
-  <sub>The snake follows my GitHub contribution grid. Each square represents a day; brighter squares indicate days with more activity.</sub>
+  <strong>Consistency, progress, and the days I showed up to build.</strong><br/>
+  <sub>A live view of my GitHub contribution journey — each square represents a day, and stronger shades mean more activity.</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Meet-Parsana1?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img src="https://raw.githubusercontent.com/Meet-Parsana1/Meet-Parsana/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving across the GitHub contribution calendar" />
+  <a href="https://github.com/Meet-Parsana1?tab=overview">
+    <img src="https://ghchart.rshah.org/0B66D2/Meet-Parsana1" width="100%" alt="Meet Parsana's GitHub contribution calendar" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Contribution key: ⬛ No recorded activity &nbsp; 🟩 Contributions &nbsp; 🟦 More activity</sub><br/>
-  <sub><a href="https://github.com/Meet-Parsana1">View my GitHub profile and full contribution history →</a></sub>
+  <img src="https://img.shields.io/badge/⬛_QUIET_DAY-No_recorded_activity-161B22?style=for-the-badge" alt="Quiet day" />
+  <img src="https://img.shields.io/badge/🟦_ACTIVE_DAY-Code_in_motion-0B66D2?style=for-the-badge" alt="Active day" />
+  <img src="https://img.shields.io/badge/⚡_HIGH_ACTIVITY-Deep_build_mode-00A0B6?style=for-the-badge" alt="High activity" />
 </p>
 
-<p align="center"><i>Every commit is a small step forward. 💙</i></p>
+<p align="center">
+  <sub>Commits • Pull Requests • Issues • Reviews • Open Source</sub><br/><br/>
+  <a href="https://github.com/Meet-Parsana1?tab=overview">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_FULL_CONTRIBUTION_HISTORY-→-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0B66D2" alt="Explore full contribution history" />
+  </a>
+</p>
+
+<p align="center"><i>Not chasing green squares — building something better with every one of them. 🚀</i></p>
 
 ---
 
