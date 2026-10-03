@@ -82,7 +82,7 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🍽️ Canteen Feedback Management</h3>
+      <h3 align="center">🍽️ Canteen Feedback Management System</h3>
       <p align="center">
         <a href="https://github.com/Meet-Parsana1?tab=repositories">
           <img src="https://img.shields.io/badge/SOURCE%20CODE-00A0B6?style=for-the-badge&logo=github&logoColor=white" alt="Browse source repositories" />
@@ -136,7 +136,7 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
 
 <p align="center">
   <strong>Consistency, progress, and the days I showed up to build.</strong><br/>
-  <sub>A live view of my GitHub contribution journey — each square represents a day, and stronger shades mean more activity.</sub>
+  <sub>A live view of my GitHub contribution journey, each square represents a day, and stronger shades mean more activity.</sub>
 </p>
 
 <p align="center">
@@ -158,7 +158,7 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
   </a>
 </p>
 
-<p align="center"><i>Not chasing green squares — building something better with every one of them. 🚀</i></p>
+<p align="center"><i>Not chasing green squares, building something better with every one of them. 🚀</i></p>
 
 ---
 
