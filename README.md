@@ -1,7 +1,9 @@
-<div align="center">
+ <div align="center">
 
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:071A2B,45:075985,100:0B66D2&text=MEET%20PARSANA&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=FinTech%20Student%20%7C%20Future%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=15&descAlignY=63&animation=twinkling" alt="Meet Parsana — FinTech student and future full-stack developer" />
+<!-- Premium animated profile header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:071A2B,45:075985,100:0B66D2&text=MEET%20PARSANA&fontColor=FFFFFF&fontSize=66&fontFamily=Arial%20Black&fontAlignY=42&desc=FinTech%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=63&animation=twinkling&stroke=00A0B6&strokeWidth=1" alt="Meet Parsana | FinTech Student | Full-Stack Developer" />
+
+<br/>
 
 <a href="https://github.com/Meet-Parsana1">
   <img src="https://komarev.com/ghpvc/?username=Meet-Parsana1&label=PROFILE%20VIEWS&color=0B66D2&style=for-the-badge" alt="Profile views" />
@@ -10,17 +12,24 @@
   <img src="https://img.shields.io/github/followers/Meet-Parsana1?label=FOLLOWERS&style=for-the-badge&color=00A0B6&logo=github" alt="GitHub followers" />
 </a>
 <a href="https://github.com/Meet-Parsana1?tab=repositories">
-  <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-10-5965F2?style=for-the-badge&logo=github&logoColor=white" alt="Public repository count" />
+  <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-10-5965F2?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
 </a>
-<a href="https://github.com/Meet-Parsana1?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-5965F2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
+
+<br/><br/>
 
 ### Turning curiosity into code, and ideas into things people can use.
 
-<a href=" https://personal-portfolio-website-nine-silk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0B66D2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:meetparsana2203@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-00A0B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://drive.google.com/file/d/1Zd2dgwD_q-2I-RoHTFKnW8oYjJ9lxEI-/view"><img src="https://img.shields.io/badge/Resume-View%20PDF-5965F2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+<br/>
+
+<a href="https://personal-portfolio-website-nine-silk.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0B66D2?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+</a>
+<a href="mailto:meetparsana2203@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Say%20Hello-00A0B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://drive.google.com/file/d/1Zd2dgwD_q-2I-RoHTFKnW8oYjJ9lxEI-/view">
+  <img src="https://img.shields.io/badge/RESUME-View%20PDF-5965F2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+</a>
 
 </div>
 
@@ -28,23 +37,25 @@
 
 ## 👋 A little about me
 
-Hey, I'm **Meet** — a B.Sc. IT (FinTech) student at Marwadi University. I like learning by building, figuring out how things work, and turning what I learn into practical projects.
+Hey, I'm **Meet** — a final-year B.Sc. IT (FinTech) student at Marwadi University. I enjoy learning by building, exploring new technologies, solving problems, and turning ideas into practical applications.
 
-I'm working towards becoming a full-stack developer, while exploring how AI can make applications more useful.
+I'm working towards becoming a full-stack developer, with a growing interest in Artificial Intelligence and how it can make everyday applications smarter and more useful.
 
 - 🔭 **Currently building:** FinTech and AI-powered web applications
-- 🌱 **Learning:** Python, machine learning and advanced web development
+- 🌱 **Learning:** Python, React.js, advanced JavaScript and machine learning
 - 💡 **Interested in:** Full-stack development, FinTech and AI/ML
+- 🎨 **Improving:** UI/UX design and modern web development
 - 🤝 **Open to:** Meaningful collaborations, open-source projects and hackathons
 - ♟️ **Away from the keyboard:** Usually up for a game of chess
 
 ---
 
-## 🧩 Technologies I use
+## 🧩 Technologies I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,mysql,supabase,git,github,vscode&perline=9" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,mysql,supabase,git,github,vscode&perline=9" alt="Technologies and development tools" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
   <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" alt="Recharts" />
@@ -61,11 +72,13 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
       <h3 align="center">💰 Finance Intelligence</h3>
       <p align="center">
         <a href="https://github.com/Meet-Parsana1?tab=repositories">
-          <img src="https://img.shields.io/badge/SOURCE%20CODE-0B66D2?style=for-the-badge&logo=github&logoColor=white" alt="Browse source repositories" />
+          <img src="https://img.shields.io/badge/SOURCE%20CODE-0B66D2?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
         </a>
-        <a href="https://finance-intelligence-xi.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20App-00A0B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Finance Intelligence live demo" /></a>
+        <a href="https://finance-intelligence-xi.vercel.app/">
+          <img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20App-00A0B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+        </a>
       </p>
-      <p>A personal finance app focused on making everyday money tracking easier. It brings income, expenses and financial insights together, with AI-assisted expense categorization.</p>
+      <p>A personal finance application designed to make everyday money management easier. It brings income, expenses and financial insights together, with AI-assisted expense categorization.</p>
       <p><strong>Highlights</strong></p>
       <ul>
         <li>Income and expense tracking</li>
@@ -85,16 +98,18 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
       <h3 align="center">🍽️ Canteen Feedback Management System</h3>
       <p align="center">
         <a href="https://github.com/Meet-Parsana1?tab=repositories">
-          <img src="https://img.shields.io/badge/SOURCE%20CODE-00A0B6?style=for-the-badge&logo=github&logoColor=white" alt="Browse source repositories" />
+          <img src="https://img.shields.io/badge/SOURCE%20CODE-00A0B6?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
         </a>
-        <a href="https://canteen-feedback-management-system.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20App-00A0B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Canteen Feedback live demo" /></a>
+        <a href="https://canteen-feedback-management-system.vercel.app/">
+          <img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20App-00A0B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+        </a>
       </p>
-      <p>A feedback platform that helps students share their canteen experience and gives administrators a clearer view of the responses.</p>
+      <p>A feedback platform that helps students share their canteen experiences and gives administrators a clearer understanding of student responses.</p>
       <p><strong>Highlights</strong></p>
       <ul>
         <li>QR-based student feedback</li>
         <li>Enrollment validation</li>
-        <li>Analytics dashboard</li>
+        <li>Interactive analytics dashboard</li>
         <li>Excel export for administrators</li>
       </ul>
       <p align="center">
@@ -110,7 +125,7 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
 
 <p align="center">
   <a href="https://github.com/Meet-Parsana1?tab=repositories">
-    <img src="https://img.shields.io/badge/More%20projects-Explore%20GitHub-0B66D2?style=for-the-badge&logo=github&logoColor=white" alt="Explore more projects" />
+    <img src="https://img.shields.io/badge/MORE%20PROJECTS-Explore%20GitHub-0B66D2?style=for-the-badge&logo=github&logoColor=white" alt="Explore more projects" />
   </a>
 </p>
 
@@ -119,24 +134,25 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
 ## 📊 GitHub analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meet-Parsana1&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400" width="90%" alt="GitHub stats including stars and contributions" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Meet-Parsana1&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400" width="95%" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet-Parsana1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" width="90%" alt="Most used programming languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Meet-Parsana1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" width="95%" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meet-Parsana1&theme=tokyonight&hide_border=true&background=0D1117&ring=0B66D2&fire=00A0B6&currStreakLabel=70A5FD" width="90%" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Meet-Parsana1&theme=tokyonight&hide_border=true&background=0D1117&ring=0B66D2&fire=00A0B6&currStreakLabel=70A5FD" width="95%" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## 📅 My Contri Calendar
+## 📅 My Contribution Calendar
 
 <p align="center">
-  <strong>Consistency, progress, and the days I showed up to build.</strong><br/>
-  <sub>A live view of my GitHub contribution journey, each square represents a day, and stronger shades mean more activity.</sub>
+  <strong>Consistency, progress, and the days I showed up to build.</strong>
+  <br/>
+  <sub>A visual representation of my GitHub contribution journey. Each square represents a day, and stronger shades indicate more activity.</sub>
 </p>
 
 <p align="center">
@@ -146,33 +162,51 @@ I'm working towards becoming a full-stack developer, while exploring how AI can 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⬛_QUIET_DAY-No_recorded_activity-161B22?style=for-the-badge" alt="Quiet day" />
-  <img src="https://img.shields.io/badge/🟦_ACTIVE_DAY-Code_in_motion-0B66D2?style=for-the-badge" alt="Active day" />
-  <img src="https://img.shields.io/badge/⚡_HIGH_ACTIVITY-Deep_build_mode-00A0B6?style=for-the-badge" alt="High activity" />
+  <img src="https://img.shields.io/badge/QUIET%20DAY-No%20recorded%20activity-161B22?style=for-the-badge" alt="Quiet day" />
+  <img src="https://img.shields.io/badge/ACTIVE%20DAY-Code%20in%20motion-0B66D2?style=for-the-badge" alt="Active day" />
+  <img src="https://img.shields.io/badge/HIGH%20ACTIVITY-Deep%20build%20mode-00A0B6?style=for-the-badge" alt="High activity" />
 </p>
 
 <p align="center">
-  <sub>Commits • Pull Requests • Issues • Reviews • Open Source</sub><br/><br/>
+  <sub>Commits • Pull Requests • Issues • Reviews • Open Source</sub>
+  <br/><br/>
   <a href="https://github.com/Meet-Parsana1?tab=overview">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_FULL_CONTRIBUTION_HISTORY-→-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0B66D2" alt="Explore full contribution history" />
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20FULL%20CONTRIBUTION%20HISTORY-→-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0B66D2" alt="Explore contribution history" />
   </a>
 </p>
 
-<p align="center"><i>Not chasing green squares, building something better with every one of them. 🚀</i></p>
+<p align="center">
+  <i>Not chasing green squares, building something better with every one of them.</i>
+</p>
 
 ---
 
 ## 🌐 Find me around the web
 
 <p align="center">
-  <a href="https://linkedin.com/in/meet-parsana"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/meet_parsana_01"><img src="https://img.shields.io/badge/Instagram-Follow%20along-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.leetcode.com/meet_parsana_"><img src="https://img.shields.io/badge/LeetCode-My%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:meetparsana2203@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/meet-parsana">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/meet_parsana_01">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20along-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.leetcode.com/meet_parsana_">
+    <img src="https://img.shields.io/badge/LeetCode-My%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:meetparsana2203@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://personal-portfolio-website-nine-silk.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0B66D2?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal portfolio" />
+  </a>
 </p>
 
-<p align="center"><i>Still learning. Still building. Always curious. 🚀</i></p>
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,100:0B66D2&height=100&section=footer" width="100%" alt="" />
+  <strong>Still learning. Still building. Always curious.</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,100:0B66D2&height=120&section=footer" width="100%" alt="Footer" />
 </p>
