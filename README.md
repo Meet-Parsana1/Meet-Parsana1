@@ -18,7 +18,7 @@
 
 ### Turning curiosity into code, and ideas into things people can use.
 
-<a href="https://personal-portfolio-website-8j4xx3gbl-meet-s.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0B66D2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href=" https://personal-portfolio-website-nine-silk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0B66D2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:meetparsana2203@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-00A0B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://drive.google.com/file/d/1Zd2dgwD_q-2I-RoHTFKnW8oYjJ9lxEI-/view"><img src="https://img.shields.io/badge/Resume-View%20PDF-5965F2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 
